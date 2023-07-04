@@ -8,7 +8,7 @@ using riskmanagement as rm from '../db/schema';
    prio @title : 'Priority';
    descr @title : 'Description';
    miti @title : 'Mitigation';
-   impact @title : 'Impact';
+   impact @title : 'Einfluss';
 
    bp @title : 'Business Partner';
 
